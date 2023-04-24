@@ -8,6 +8,9 @@ namespace card_game
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Suit b = (Suit)1;
+            Card a = new Card(1, b);
+            Console.WriteLine(a);
         }
     }
 }
