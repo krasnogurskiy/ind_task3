@@ -20,15 +20,24 @@ namespace card_game
         public void AddCard(Card c) // Додавання нової карти
         {
             cards.AddFirst(c);
-            Console.WriteLine("Card is added to the top of the stack: ", c);
         }
 
         public int FindCard(Card c)
         {
             return 0;
         }
-
-
-
+        public LinkedList<Card> RemoveRangeOfCards(int pos)
+        {
+            LinkedList<Card> range = new LinkedList<Card>();
+            LinkedListNode<Card> end_node = cards.First;
+            while (pos >= 0)
+            {
+                range.AddLast(end_node.Value);
+                end_node = end_node.Next;
+                cards.Remove(end_node.Previous.Value);
+                pos -= 1;
+            }
+            return range;
+        }
     }
 }
