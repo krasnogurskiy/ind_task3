@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace card_game
 {
@@ -35,6 +36,28 @@ namespace card_game
                     new Card(5, Suit.Spade), new Card(6, Suit.Spade), new Card(7, Suit.Spade), new Card(8, Suit.Spade), new Card(9, Suit.Spade),
                     new Card(10, Suit.Spade), new Card(11, Suit.Spade), new Card(12, Suit.Spade), new Card(13, Suit.Spade), new Card(1, Suit.Spade) };
             }
+        }
+        public LinkedList<Card> DealCards(Player[] players)
+        {
+            LinkedList<Card> remainder = new LinkedList<Card>();
+            int number_of_cards = cards.Length;
+            var random = new Random(DateTime.Now.Millisecond);
+            cards = cards.OrderBy(x => random.Next()).ToArray();
+            Stack<Card> shuffle_cards = new Stack<Card>(cards);
+            while (number_of_cards >= number_of_players)
+            {
+                for (int i = 0; i < number_of_players; ++i)
+                {
+                    players[i].AddCardTop(shuffle_cards.Pop());
+                    number_of_cards -= 1;
+                }
+            }
+            int count = shuffle_cards.Count;
+            for (int i = 0; i < count; ++i)
+            {
+                remainder.AddLast(shuffle_cards.Pop());
+            }
+            return remainder;
         }
     }
 }
