@@ -12,7 +12,7 @@ namespace card_game
 
 
         //Конструктори
-        public Stack_of_cards() { is_opened = true; } // Конструктор за замовчуванням (поняття не маю, для чого я його написав взагалі: він нам знадобиться настільки ж сильно, як і матан)
+        public Stack_of_cards() { is_opened = true; } 
         public Stack_of_cards(LinkedList<Card> c, bool is_op) { cards = c; is_opened = is_op; } // Конструктор за параметрами
 
 
@@ -38,6 +38,22 @@ namespace card_game
                 pos -= 1;
             }
             return range;
+        }
+        public override string ToString()
+        {
+            string st = string.Empty;
+            foreach (Card i in cards)
+            {
+                if (is_opened)
+                {
+                    st = st + i.ToString("Open") + " ";
+                }
+                else
+                {
+                    st = st + i.ToString("Close") + " ";
+                }
+            }
+            return st;
         }
     }
 }
