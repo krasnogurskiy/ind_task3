@@ -17,13 +17,16 @@ namespace card_game
 
 
         // Методи різні
-
         public void AddCard(Card c) // Додавання нової карти
         {
             cards.AddFirst(c);
             Console.WriteLine("Card is added to the top of the stack: ", c);
         }
 
+        public int FindCard(Card c)
+        {
+            return 0;
+        }
 
 
 

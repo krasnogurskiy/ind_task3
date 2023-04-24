@@ -10,14 +10,15 @@ namespace card_game
     //Масть
     public enum Suit
     {
-        Heart, 
-        Diamond, 
-        Spade,
-        Club
+        Heart = 0, 
+        Diamond = 1, 
+        Spade = 2,
+        Club = 3
     }
     class Card: IFormattable
     {
         private uint cost; // Вартість карти (я подумав, шо і так там майже всьо циферки: туз = 1, валет = 10, дама = 11, король = 12; Тому uint тут мав би добре підійти)
+        private Suit suit;
         public uint GetCost() // Геттер
         {
             return cost;
@@ -30,12 +31,15 @@ namespace card_game
         }
 
         // Конструктор за параметрами (нам іншого і не треба буде, правда?)
-        public Card(uint _cost) 
+        public Card(uint _cost, Suit _suit) 
         {
             if (_cost > 0 && _cost < 12)  // Перевірка заданого числа на межі (1, 12)
                 cost = _cost;
             else
+            {
                 throw new ArithmeticException($"Cannot create the card - Cost must be in borders (1, 12), not {_cost}");
+            }   
+            suit = _suit;
         } 
 
         //Перевантаження операторів порівняння
