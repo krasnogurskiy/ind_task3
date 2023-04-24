@@ -30,5 +30,15 @@ namespace card_game
         }
 
         public Card(int _cost) { cost = _cost; } // Конструктор за параметрами (нам іншого і не треба буде, правда?)
+
+        //Перевантаження операторів порівняння
+        public static bool operator ==(Card obj1, Card obj2)
+        {
+            return (obj1.cost == obj2.cost);
+        }
+        public static bool operator !=(Card obj1, Card obj2)
+        {
+            return (obj1.cost != obj2.cost);
+        }
     }
 }
