@@ -15,13 +15,20 @@ namespace card_game
         Spade,
         Club
     }
-    class Card
+    class Card: IFormattable
     {
         private int cost; // Вартість карти
         public int GetCost() // Геттер
         {
             return cost;
         }
-        public Card(int _cost) { cost = _cost; }
+
+        // Реалізація IFormattable (я тупо зробив ту, яку пропонував компілятор, тому можете дописати)
+        public string ToString(string format, IFormatProvider formatProvider)
+        {
+            return cost.ToString(format, formatProvider);
+        }
+
+        public Card(int _cost) { cost = _cost; } // Конструктор за параметрами (нам іншого і не треба буде, правда?)
     }
 }
