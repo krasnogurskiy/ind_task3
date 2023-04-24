@@ -12,7 +12,11 @@ namespace card_game
 
 
         //Конструктори
-        public Stack_of_cards() { is_opened = true; } 
+        public Stack_of_cards() 
+        { 
+            is_opened = true;
+            cards = new LinkedList<Card>();
+        } 
         public Stack_of_cards(LinkedList<Card> c, bool is_op) { cards = c; is_opened = is_op; } // Конструктор за параметрами
 
 

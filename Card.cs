@@ -89,11 +89,11 @@ namespace card_game
         // Конструктор за параметрами (нам іншого і не треба буде, правда?)
         public Card(uint _cost, Suit _suit) 
         {
-            if (_cost > 0 && _cost < 12)  // Перевірка заданого числа на межі (1, 12)
+            if (_cost > 1 && _cost <= 13)  // Перевірка заданого числа на межі (1, 13)
                 cost = _cost;
             else
             {
-                throw new ArithmeticException($"Cannot create the card - Cost must be in borders (1, 12), not {_cost}");
+                throw new ArithmeticException($"Cannot create the card - Cost must be in borders (1, 13), not {_cost}");
             }   
             suit = _suit;
         } 
