@@ -88,11 +88,31 @@ namespace card_game
             }
             return ($"The {c} of {suit}s {s}");
         }
+        public string ToString(string format)
+        {
+            switch (format)
+            { 
+                case "Open":
+                    return this.ToString();
+                    break;
+                case "Close":
+                    return "Card is closed. ";
+                    break;
+                default:
+                    throw new ArgumentException($"Cannot create the card - Format must be Open or Close, not {format}");
+                    return "Error: Opened or Closed?";
+            }
+
+
+                
+                    
+        }
+
 
         // Конструктор за параметрами (нам іншого і не треба буде, правда?)
         public Card(uint _cost, Suit _suit) 
         {
-            if (_cost > 1 && _cost <= 13)  // Перевірка заданого числа на межі (1, 13)
+            if (_cost >= 1 && _cost <= 13)  // Перевірка заданого числа на межі (1, 13)
                 cost = _cost;
             else
             {
