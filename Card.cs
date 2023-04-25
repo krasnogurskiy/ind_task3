@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
+using System.Threading.Tasks;
 
 namespace card_game
 {
@@ -25,9 +27,13 @@ namespace card_game
         }
 
         // Реалізація IFormattable 
+        public override string ToString()
+        {
+            return this.ToString("Open", CultureInfo.CurrentCulture);
+        }
         public string ToString(string format, IFormatProvider formatProvider)
         {
-            string c = " ";
+            string c = string.Empty;
             switch(cost)
             {
                 case 1:
@@ -70,7 +76,7 @@ namespace card_game
                     c = "King";
                     break;
             }
-            string s = " ";
+            string s = string.Empty;
             switch(suit)
             {
                 case (Suit)0:
@@ -86,25 +92,24 @@ namespace card_game
                     s = "♣️";
                     break;
             }
-            return ($"The {c} of {suit}s {s}");
-        }
-        public string ToString(string format)
-        {
+            string st = "|" + c + s + "|";
             switch (format)
             { 
                 case "Open":
-                    return this.ToString();
+                    return st;
                     break;
                 case "Close":
-                    return "Card is closed. ";
+                    return "|X|";
                     break;
                 default:
                     throw new ArgumentException($"Cannot create the card - Format must be Open or Close, not {format}");
                     return "Error: Opened or Closed?";
             }
-                    
         }
-
+        public string ToString(string format)
+        {
+            return this.ToString(format, CultureInfo.CurrentCulture);    
+        }
 
         // Конструктор за параметрами (нам іншого і не треба буде, правда?)
         public Card(uint _cost, Suit _suit) 
@@ -127,7 +132,5 @@ namespace card_game
         {
             return (obj1.cost != obj2.cost);
         }
-
-
     }
 }

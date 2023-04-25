@@ -1,4 +1,4 @@
-﻿
+﻿using System.Text;
 using System;
 
 namespace card_game
@@ -8,8 +8,13 @@ namespace card_game
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            Card a = new Card(1, Suit.Diamond);
-            Console.WriteLine(a.ToString("Close"));
+            Player[] players = { new Player(), new Player(), new Player(), new Player() };
+            Deck d = new Deck(4);
+            d.DealCards(players);
+            foreach(var i in players)
+            {
+                Console.WriteLine(i);
+            }
 
         }
 

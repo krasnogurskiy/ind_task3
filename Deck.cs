@@ -57,6 +57,7 @@ namespace card_game
             {
                 remainder.AddLast(shuffle_cards.Pop());
             }
+            //Console.WriteLine($"The cards are dealt to the players. Each player received a {players[0].Number_Of_Cards} card.");
             return remainder;
         }
     }
