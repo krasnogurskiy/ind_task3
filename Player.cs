@@ -20,7 +20,7 @@ namespace card_game
         }
         public override string ToString()
         {
-            return cards.ToString();
+            return ("Player`s stack: " + cards.ToString());
         }
     }
 }
