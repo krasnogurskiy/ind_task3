@@ -58,12 +58,15 @@ namespace card_game
                     c = "Nine";
                     break;
                 case 10:
-                    c = "Jack";
+                    c = "Ten";
                     break;
                 case 11:
-                    c = "Queen";
+                    c = "Jack";
                     break;
                 case 12:
+                    c = "Queen";
+                    break;
+                case 13:
                     c = "King";
                     break;
             }
