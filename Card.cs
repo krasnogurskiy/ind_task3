@@ -24,7 +24,7 @@ namespace card_game
             return cost;
         }
 
-        // Реалізація IFormattable (я тупо зробив ту, яку пропонував компілятор, тому можете дописати)
+        // Реалізація IFormattable 
         public string ToString(string format, IFormatProvider formatProvider)
         {
             string c = " ";
