@@ -11,7 +11,7 @@ namespace card_game
 
         public Player()
         {
-            cards = new Stack_of_cards();
+            cards = new Stack_of_cards(false);
             number_of_cards = 0;
         }
         public void AddCardTop(Card card)

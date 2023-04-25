@@ -16,8 +16,18 @@ namespace card_game
         { 
             is_opened = true;
             cards = new LinkedList<Card>();
+        }
+        public Stack_of_cards(bool is_op)
+        {
+            is_opened = is_op;
+            cards = new LinkedList<Card>();
+
+        }
+        public Stack_of_cards(LinkedList<Card> c, bool is_op) // Конструктор за параметрами
+        { 
+            cards = c; 
+            is_opened = is_op; 
         } 
-        public Stack_of_cards(LinkedList<Card> c, bool is_op) { cards = c; is_opened = is_op; } // Конструктор за параметрами
 
 
         // Методи різні
