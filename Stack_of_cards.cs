@@ -26,6 +26,11 @@ namespace card_game
             cards.AddFirst(c);
         }
 
+        /* 
+        метод шукає карту в стопці
+        обходим вузли за допомогою while, порівнюєм значення вузла з потрібною картою, 
+        знаходим: повертаєм індекс поточного числа, не находим:  вертаєм -1
+         */
         public int FindCard(Card c)
         {
             LinkedListNode<Card> currentNode = cards.First;
@@ -73,7 +78,9 @@ namespace card_game
         }
 
         /*
-         метод, який буде додавати діапазон карт під стопку
+         метод, що додає діапазон карт під стопку
+        приймає список карт, робить для кожної карти в списку - вузол,
+        додає під стопку за допомогою AddAfter()
          */
         public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
         {
