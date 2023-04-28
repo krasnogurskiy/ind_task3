@@ -28,8 +28,20 @@ namespace card_game
 
         public int FindCard(Card c)
         {
-            return 0;
+            LinkedListNode<Card> currentNode = cards.First;
+            int index = 0;
+            while (currentNode != null)
+            {
+                if (currentNode.Value.Equals(c))
+                {
+                    return index;
+                }
+                currentNode = currentNode.Next;
+                index++;
+            }
+            return -1;
         }
+
         public LinkedList<Card> RemoveRangeOfCards(int pos)
         {
             LinkedList<Card> range = new LinkedList<Card>();
