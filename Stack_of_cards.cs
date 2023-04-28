@@ -7,16 +7,16 @@ namespace card_game
     class Stack_of_cards
     {
         // Поля
-        private LinkedList<Card> cards;  
+        private LinkedList<Card> cards;
         private bool is_opened;
 
 
         //Конструктори
-        public Stack_of_cards() 
-        { 
+        public Stack_of_cards()
+        {
             is_opened = true;
             cards = new LinkedList<Card>();
-        } 
+        }
         public Stack_of_cards(LinkedList<Card> c, bool is_op) { cards = c; is_opened = is_op; } // Конструктор за параметрами
 
 
@@ -58,6 +58,20 @@ namespace card_game
                 }
             }
             return st;
+        }
+
+        /*
+         метод, який буде додавати діапазон карт під стопку
+         */
+        public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
+        {
+            LinkedListNode<Card> lastNode = cards.Last;
+            foreach (Card card in cardsToAdd)
+            {
+                LinkedListNode<Card> newNode = new LinkedListNode<Card>(card);
+                cards.AddAfter(lastNode, newNode);
+                lastNode = newNode;
+            }
         }
     }
 }
