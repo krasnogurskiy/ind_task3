@@ -102,7 +102,6 @@ namespace card_game
                     return "|X|";
                     break;
                 default:
-                    throw new ArgumentException($"Cannot create the card - Format must be Open or Close, not {format}");
                     return "Error: Opened or Closed?";
             }
         }
