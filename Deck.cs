@@ -12,7 +12,7 @@ namespace card_game
         public Deck(int _players)
         {
             number_of_players = _players;
-            if (_players < 6)
+            if (_players < 4)
             {
                 cards = new[] {new Card(6, Suit.Heart), new Card(7, Suit.Heart), new Card(8, Suit.Heart), new Card(9, Suit.Heart),
                     new Card(10, Suit.Heart), new Card(11, Suit.Heart), new Card(12, Suit.Heart), new Card(13, Suit.Heart), new Card(1, Suit.Heart),
@@ -37,6 +37,10 @@ namespace card_game
                     new Card(10, Suit.Spade), new Card(11, Suit.Spade), new Card(12, Suit.Spade), new Card(13, Suit.Spade), new Card(1, Suit.Spade) };
             }
         }
+        public int NumberOfCard
+        {
+            get { return cards.Length; }
+        }
         public LinkedList<Card> DealCards(Player[] players)
         {
             LinkedList<Card> remainder = new LinkedList<Card>();
@@ -57,6 +61,7 @@ namespace card_game
             {
                 remainder.AddLast(shuffle_cards.Pop());
             }
+            Console.WriteLine($"The cards are dealt to the players. Each player received a {players[0].NumberOfCards} card.");
             return remainder;
         }
     }
