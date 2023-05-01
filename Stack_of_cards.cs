@@ -23,7 +23,9 @@ namespace card_game
             cards = new LinkedList<Card>();
 
         }
-        public Stack_of_cards(LinkedList<Card> c, bool is_op) // Конструктор за параметрами
+
+        // Конструктор за параметрами
+        public Stack_of_cards(LinkedList<Card> c, bool is_op) 
         {
             cards = c;
             is_opened = is_op;
@@ -31,7 +33,8 @@ namespace card_game
 
 
         // Методи різні
-        public void AddCard(Card c) // Додавання нової карти
+        // Додавання нової карти
+        public void AddCard(Card c) 
         {
             cards.AddFirst(c);
         }
