@@ -57,7 +57,7 @@ namespace card_game
                 for (int i = 0; i < pl_arr.Length; ++i)
                 {
                     Console.WriteLine("-------------------------Step {0}----------------------", step);
-                    protocols.AddLast($"-------------------------Step {i}----------------------");
+                    protocols.AddLast($"-------------------------Step {step}----------------------");
                     Card temp = pl_arr[i].RemoveCard();
                     int pos = stack.FindCard(temp);
                     stack.AddCard(temp);
@@ -97,6 +97,13 @@ namespace card_game
             }
             Console.WriteLine("End of game");
             protocols.AddLast("End of game");
+            using (StreamWriter sw = new StreamWriter("../../../Protocols/protocol_2.txt"))
+            {
+                foreach (string elem in protocols)
+                {
+                    sw.WriteLine(elem);
+                }
+            }
         }
     }
 }

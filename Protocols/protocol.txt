@@ -1,0 +1,3037 @@
+Start of game
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 0----------------------
+player_1 added |Four♣️| to stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 1----------------------
+player_2 added |King♣️| to stack.
+Common stack: |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 2----------------------
+player_3 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 3----------------------
+player_4 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Ten♣️| |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 4----------------------
+player_1 added |Three♦️| to stack.
+Common stack: |Three♦️| |Seven♥️| |Ten♣️| |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 5----------------------
+player_2 added |Ten♥️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 6----------------------
+player_3 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |King♣️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 7----------------------
+player_4 added |King♥️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 8----------------------
+player_1 added |Two♥️| to stack.
+Common stack: |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 9----------------------
+player_2 added |Three♠️| to stack.
+Common stack: |Three♠️| |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 10----------------------
+player_3 added |Five♠️| to stack.
+Common stack: |Five♠️| |Three♠️| |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 11----------------------
+player_4 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Five♠️| |Three♠️| |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 12----------------------
+player_1 added |Seven♦️| to stack.
+Common stack: |Seven♦️| |Queen♦️| |Five♠️| |Three♠️| |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 13----------------------
+player_2 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Seven♦️| |Queen♦️| |Five♠️| |Three♠️| |Two♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 14----------------------
+player_3 added |Four♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 15----------------------
+player_4 added |Four♦️| to stack.
+Common stack: |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 16----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 17----------------------
+player_2 added |Jack♠️| to stack.
+Common stack: |Jack♠️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 18----------------------
+player_3 added |Jack♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 19----------------------
+player_4 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 20----------------------
+player_1 added |Three♣️| to stack.
+Common stack: |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 21----------------------
+player_2 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 22----------------------
+player_3 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 23----------------------
+player_4 added |Eight♦️| to stack.
+Common stack: |Eight♦️| |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 24----------------------
+player_1 added |Eight♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 25----------------------
+player_2 added |King♠️| to stack.
+Common stack: |King♠️| |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 26----------------------
+player_3 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |King♠️| |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 27----------------------
+player_4 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Jack♥️| |King♠️| |Queen♥️| |Ten♦️| |Three♣️| |Nine♦️| |Ace♥️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 28----------------------
+player_1 added |Four♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 29----------------------
+player_2 added |Six♦️| to stack.
+Common stack: |Six♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 30----------------------
+player_3 added |Six♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 31----------------------
+player_4 added |Ace♣️| to stack.
+Common stack: |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 32----------------------
+player_1 added |Five♣️| to stack.
+Common stack: |Five♣️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 33----------------------
+player_2 added |Six♥️| to stack.
+Common stack: |Six♥️| |Five♣️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 34----------------------
+player_3 added |Five♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 35----------------------
+player_4 added |Two♠️| to stack.
+Common stack: |Two♠️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 36----------------------
+player_1 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Two♠️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 37----------------------
+player_2 added |Six♠️| to stack.
+Common stack: |Six♠️| |Ten♠️| |Two♠️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 38----------------------
+player_3 added |Two♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 39----------------------
+player_4 added |Three♥️| to stack.
+Common stack: |Three♥️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 40----------------------
+player_1 added |Two♦️| to stack.
+Common stack: |Two♦️| |Three♥️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 41----------------------
+player_2 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Two♦️| |Three♥️| |Ace♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 42----------------------
+player_3 added |Ace♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 43----------------------
+player_4 added |Nine♥️| to stack.
+Common stack: |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 44----------------------
+player_1 added |Five♦️| to stack.
+Common stack: |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 45----------------------
+player_2 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 46----------------------
+player_3 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 47----------------------
+player_4 added |Queen♠️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 48----------------------
+player_1 added |King♦️| to stack.
+Common stack: |King♦️| |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 49----------------------
+player_2 added |Seven♠️| to stack.
+Common stack: |Seven♠️| |King♦️| |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 50----------------------
+player_3 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Seven♠️| |King♦️| |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 51----------------------
+player_4 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |Ace♦️| |Seven♠️| |King♦️| |Eight♠️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 52----------------------
+player_1 added |Eight♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 53----------------------
+player_2 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 54----------------------
+player_3 added |Four♠️| to stack.
+Common stack: |Four♠️| |Ten♥️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 55----------------------
+player_4 added |King♥️| to stack.
+Common stack: |King♥️| |Four♠️| |Ten♥️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 56----------------------
+player_1 added |Eight♦️| to stack.
+Common stack: |Eight♦️| |King♥️| |Four♠️| |Ten♥️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 57----------------------
+player_2 added |Three♦️| to stack.
+Common stack: |Three♦️| |Eight♦️| |King♥️| |Four♠️| |Ten♥️| |Five♦️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 58----------------------
+player_3 added |Nine♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 59----------------------
+player_4 added |Seven♣️| to stack.
+Common stack: |Seven♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 60----------------------
+player_1 added |Four♥️| to stack.
+Common stack: |Four♥️| |Seven♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 61----------------------
+player_2 added |Seven♥️| to stack.
+player_2 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 62----------------------
+player_3 added |Seven♦️| to stack.
+Common stack: |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 63----------------------
+player_4 added |King♣️| to stack.
+Common stack: |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 64----------------------
+player_1 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 65----------------------
+player_2 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |Eight♣️| |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 66----------------------
+player_3 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Ten♣️| |Eight♣️| |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 67----------------------
+player_4 added |Queen♠️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Ten♣️| |Eight♣️| |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 68----------------------
+player_1 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |Ten♣️| |Eight♣️| |King♣️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 69----------------------
+player_2 added |Seven♥️| to stack.
+player_2 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 70----------------------
+player_3 added |Five♠️| to stack.
+Common stack: |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 71----------------------
+player_4 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 72----------------------
+player_1 added |King♠️| to stack.
+Common stack: |King♠️| |Queen♣️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 73----------------------
+player_2 added |Four♥️| to stack.
+Common stack: |Four♥️| |King♠️| |Queen♣️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 74----------------------
+player_3 added |Three♠️| to stack.
+Common stack: |Three♠️| |Four♥️| |King♠️| |Queen♣️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 75----------------------
+player_4 added |Queen♠️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 76----------------------
+player_1 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 77----------------------
+player_2 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |Queen♥️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 78----------------------
+player_3 added |Two♥️| to stack.
+Common stack: |Two♥️| |Seven♣️| |Queen♥️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 79----------------------
+player_4 added |Queen♦️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 80----------------------
+player_1 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 81----------------------
+player_2 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 82----------------------
+player_3 added |Four♣️| to stack.
+Common stack: |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 83----------------------
+player_4 added |Queen♠️| to stack.
+Common stack: |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 84----------------------
+player_1 added |Three♣️| to stack.
+Common stack: |Three♣️| |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 85----------------------
+player_2 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |Three♣️| |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 86----------------------
+player_3 added |Jack♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♣️| |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 87----------------------
+player_4 added |Three♠️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 88----------------------
+player_1 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Queen♠️| |Four♣️| |Seven♥️| |Ten♦️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 89----------------------
+player_2 added |Ten♣️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 90----------------------
+player_3 added |Jack♠️| to stack.
+Common stack: |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 91----------------------
+player_4 added |Four♥️| to stack.
+Common stack: |Four♥️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 92----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Four♥️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 93----------------------
+player_2 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Ace♥️| |Four♥️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 94----------------------
+player_3 added |Six♣️| to stack.
+Common stack: |Six♣️| |Eight♣️| |Ace♥️| |Four♥️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 95----------------------
+player_4 added |King♠️| to stack.
+Common stack: |King♠️| |Six♣️| |Eight♣️| |Ace♥️| |Four♥️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 96----------------------
+player_1 added |Four♦️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 97----------------------
+player_2 added |King♣️| to stack.
+Common stack: |King♣️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 98----------------------
+player_3 added |Six♦️| to stack.
+Common stack: |Six♦️| |King♣️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 99----------------------
+player_4 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Six♦️| |King♣️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 100----------------------
+player_1 added |Eight♥️| to stack.
+Common stack: |Eight♥️| |Queen♣️| |Six♦️| |King♣️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 101----------------------
+player_2 added |Seven♦️| to stack.
+Common stack: |Seven♦️| |Eight♥️| |Queen♣️| |Six♦️| |King♣️| |Jack♠️| |Five♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 102----------------------
+player_3 added |Five♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| |X| 
+-------------------------Step 103----------------------
+player_4 added |Queen♦️| to stack.
+Common stack: |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 104----------------------
+player_1 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 105----------------------
+player_2 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 106----------------------
+player_3 added |Six♥️| to stack.
+Common stack: |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 107----------------------
+player_4 added |Two♥️| to stack.
+Common stack: |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 108----------------------
+player_1 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 109----------------------
+player_2 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Ace♦️| |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 110----------------------
+player_3 added |Five♣️| to stack.
+Common stack: |Five♣️| |Nine♦️| |Ace♦️| |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 111----------------------
+player_4 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |Five♣️| |Nine♦️| |Ace♦️| |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 112----------------------
+player_1 added |Seven♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Five♣️| |Nine♦️| |Ace♦️| |Two♥️| |Six♥️| |Ten♣️| |Jack♦️| |Queen♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 113----------------------
+player_2 added |Queen♠️| to stack.
+player_2 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 114----------------------
+player_3 added |Two♣️| to stack.
+Common stack: |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 115----------------------
+player_4 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 116----------------------
+player_1 added |King♦️| to stack.
+Common stack: |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 117----------------------
+player_2 added |Four♣️| to stack.
+Common stack: |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 118----------------------
+player_3 added |Six♠️| to stack.
+Common stack: |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 119----------------------
+player_4 added |Three♠️| to stack.
+Common stack: |Three♠️| |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 120----------------------
+player_1 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Three♠️| |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 121----------------------
+player_2 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Eight♠️| |Three♠️| |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 122----------------------
+player_3 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Seven♥️| |Eight♠️| |Three♠️| |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 123----------------------
+player_4 added |Three♣️| to stack.
+player_4 added range of cards to his stack.
+Common stack: |Six♠️| |Four♣️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 124----------------------
+player_1 added |Four♦️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 125----------------------
+player_2 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |King♦️| |Queen♥️| |Two♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 126----------------------
+player_3 added |Two♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| |X| 
+-------------------------Step 127----------------------
+player_4 added |Three♣️| to stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 128----------------------
+player_1 added |King♠️| to stack.
+Common stack: |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 129----------------------
+player_2 added |Queen♠️| to stack.
+Common stack: |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 130----------------------
+player_3 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| |X| 
+-------------------------Step 131----------------------
+player_4 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 132----------------------
+player_1 added |Six♣️| to stack.
+Common stack: |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 133----------------------
+player_2 added |Five♣️| to stack.
+Common stack: |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 134----------------------
+player_3 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| |X| 
+-------------------------Step 135----------------------
+player_4 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Nine♣️| |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 136----------------------
+player_1 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Seven♥️| |Nine♣️| |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 137----------------------
+player_2 added |Nine♦️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 138----------------------
+player_3 added |Two♦️| to stack.
+Common stack: |Two♦️| |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| |X| 
+-------------------------Step 139----------------------
+player_4 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Two♦️| |Five♣️| |Six♣️| |Ten♠️| |Ace♠️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 140----------------------
+player_1 added |Ace♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 141----------------------
+player_2 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Queen♠️| |King♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 142----------------------
+player_3 added |Three♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_4 stack: |X| 
+-------------------------Step 143----------------------
+player_4 added |Three♠️| to stack.
+player_4 lost!!!
+Common stack: |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 144----------------------
+player_1 added |Four♥️| to stack.
+Common stack: |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 145----------------------
+player_2 added |Two♥️| to stack.
+Common stack: |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 146----------------------
+player_3 added |Ace♣️| to stack.
+Common stack: |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 147----------------------
+player_1 added |Seven♠️| to stack.
+Common stack: |Seven♠️| |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 148----------------------
+player_2 added |Six♥️| to stack.
+Common stack: |Six♥️| |Seven♠️| |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 149----------------------
+player_3 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Six♥️| |Seven♠️| |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 150----------------------
+player_1 added |Seven♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 151----------------------
+player_2 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |Ace♣️| |Two♥️| |Four♥️| |Three♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 152----------------------
+player_3 added |Three♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 153----------------------
+player_1 added |Four♦️| to stack.
+Common stack: |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 154----------------------
+player_2 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 155----------------------
+player_3 added |Eight♦️| to stack.
+Common stack: |Eight♦️| |Jack♦️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 156----------------------
+player_1 added |Six♠️| to stack.
+Common stack: |Six♠️| |Eight♦️| |Jack♦️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 157----------------------
+player_2 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Six♠️| |Eight♦️| |Jack♦️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 158----------------------
+player_3 added |King♥️| to stack.
+Common stack: |King♥️| |Queen♦️| |Six♠️| |Eight♦️| |Jack♦️| |Four♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 159----------------------
+player_1 added |Four♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 160----------------------
+player_2 added |Nine♦️| to stack.
+Common stack: |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 161----------------------
+player_3 added |Four♠️| to stack.
+Common stack: |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 162----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 163----------------------
+player_2 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 164----------------------
+player_3 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Eight♣️| |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 165----------------------
+player_1 added |Eight♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 166----------------------
+player_2 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 167----------------------
+player_3 added |Five♦️| to stack.
+Common stack: |Five♦️| |Seven♥️| |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 168----------------------
+player_1 added |Two♦️| to stack.
+Common stack: |Two♦️| |Five♦️| |Seven♥️| |Ace♥️| |Four♠️| |Nine♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 169----------------------
+player_2 added |Nine♣️| to stack.
+player_2 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 170----------------------
+player_3 added |Nine♥️| to stack.
+Common stack: |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 171----------------------
+player_1 added |Five♣️| to stack.
+Common stack: |Five♣️| |Nine♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 172----------------------
+player_2 added |Nine♣️| to stack.
+player_2 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 173----------------------
+player_3 added |Jack♣️| to stack.
+Common stack: |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 174----------------------
+player_1 added |Six♣️| to stack.
+Common stack: |Six♣️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 175----------------------
+player_2 added |Two♦️| to stack.
+Common stack: |Two♦️| |Six♣️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 176----------------------
+player_3 added |Jack♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 177----------------------
+player_1 added |Ten♠️| to stack.
+Common stack: |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 178----------------------
+player_2 added |Five♦️| to stack.
+Common stack: |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 179----------------------
+player_3 added |Five♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 180----------------------
+player_1 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 181----------------------
+player_2 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Ace♠️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 182----------------------
+player_3 added |Seven♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♠️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 183----------------------
+player_1 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |Ace♠️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 184----------------------
+player_2 added |Ace♥️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 185----------------------
+player_3 added |Eight♥️| to stack.
+Common stack: |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 186----------------------
+player_1 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 187----------------------
+player_2 added |Four♠️| to stack.
+Common stack: |Four♠️| |Nine♠️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 188----------------------
+player_3 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Four♠️| |Nine♠️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 189----------------------
+player_1 added |Six♥️| to stack.
+Common stack: |Six♥️| |Queen♣️| |Four♠️| |Nine♠️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 190----------------------
+player_2 added |Nine♦️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 191----------------------
+player_3 added |Six♦️| to stack.
+Common stack: |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 192----------------------
+player_1 added |Seven♠️| to stack.
+Common stack: |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 193----------------------
+player_2 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 194----------------------
+player_3 added |King♣️| to stack.
+Common stack: |King♣️| |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 195----------------------
+player_1 added |Four♣️| to stack.
+Common stack: |Four♣️| |King♣️| |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 196----------------------
+player_2 added |Five♣️| to stack.
+Common stack: |Five♣️| |Four♣️| |King♣️| |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 197----------------------
+player_3 added |Jack♠️| to stack.
+Common stack: |Jack♠️| |Five♣️| |Four♣️| |King♣️| |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 198----------------------
+player_1 added |King♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Nine♣️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 199----------------------
+player_2 added |Nine♥️| to stack.
+player_2 added range of cards to his stack.
+Common stack: |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 200----------------------
+player_3 added |Five♠️| to stack.
+Common stack: |Five♠️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 201----------------------
+player_1 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Five♠️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 202----------------------
+player_2 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Queen♦️| |Five♠️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 203----------------------
+player_3 added |Two♠️| to stack.
+Common stack: |Two♠️| |Ace♥️| |Queen♦️| |Five♠️| |Seven♠️| |Six♦️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 204----------------------
+player_1 added |Six♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 205----------------------
+player_2 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |Eight♥️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 206----------------------
+player_3 added |Ten♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 207----------------------
+player_1 added |Eight♦️| to stack.
+Common stack: |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 208----------------------
+player_2 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 209----------------------
+player_3 added |King♦️| to stack.
+Common stack: |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 210----------------------
+player_1 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 211----------------------
+player_2 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 212----------------------
+player_3 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Nine♦️| |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 213----------------------
+player_1 added |Four♦️| to stack.
+Common stack: |Four♦️| |Queen♥️| |Nine♦️| |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 214----------------------
+player_2 added |Six♥️| to stack.
+Common stack: |Six♥️| |Four♦️| |Queen♥️| |Nine♦️| |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 215----------------------
+player_3 added |Two♣️| to stack.
+Common stack: |Two♣️| |Six♥️| |Four♦️| |Queen♥️| |Nine♦️| |Jack♦️| |King♦️| |Ace♠️| |Eight♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 216----------------------
+player_1 added |Eight♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 217----------------------
+player_2 added |Queen♣️| to stack.
+Common stack: |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 218----------------------
+player_3 added |Three♥️| to stack.
+Common stack: |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 219----------------------
+player_1 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 220----------------------
+player_2 added |Four♠️| to stack.
+Common stack: |Four♠️| |Ten♥️| |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 221----------------------
+player_3 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Four♠️| |Ten♥️| |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 222----------------------
+player_1 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Ace♦️| |Four♠️| |Ten♥️| |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 223----------------------
+player_2 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Eight♣️| |Ace♦️| |Four♠️| |Ten♥️| |Three♥️| |Queen♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 224----------------------
+player_3 added |Queen♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 225----------------------
+player_1 added |King♥️| to stack.
+Common stack: |King♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 226----------------------
+player_2 added |Nine♥️| to stack.
+Common stack: |Nine♥️| |King♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 227----------------------
+player_3 added |King♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 228----------------------
+player_1 added |Jack♠️| to stack.
+Common stack: |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_2 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 229----------------------
+player_2 added |Nine♣️| to stack.
+player_2 lost!!!
+Common stack: |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 230----------------------
+player_1 added |Five♣️| to stack.
+Common stack: |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 231----------------------
+player_3 added |Three♣️| to stack.
+Common stack: |Three♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 232----------------------
+player_1 added |Four♣️| to stack.
+Common stack: |Four♣️| |Three♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 233----------------------
+player_3 added |Three♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 234----------------------
+player_1 added |King♣️| to stack.
+Common stack: |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 235----------------------
+player_3 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 236----------------------
+player_1 added |Six♠️| to stack.
+Common stack: |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 237----------------------
+player_3 added |Ace♣️| to stack.
+Common stack: |Ace♣️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 238----------------------
+player_1 added |Two♠️| to stack.
+Common stack: |Two♠️| |Ace♣️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 239----------------------
+player_3 added |Two♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♣️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 240----------------------
+player_1 added |Ace♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 241----------------------
+player_3 added |Four♥️| to stack.
+Common stack: |Four♥️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 242----------------------
+player_1 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Four♥️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 243----------------------
+player_3 added |Three♠️| to stack.
+Common stack: |Three♠️| |Queen♦️| |Four♥️| |Six♠️| |Ten♣️| |King♣️| |Five♣️| |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 244----------------------
+player_1 added |Five♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Nine♣️| |Jack♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 245----------------------
+player_3 added |Jack♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 246----------------------
+player_1 added |Seven♠️| to stack.
+Common stack: |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 247----------------------
+player_3 added |Two♦️| to stack.
+Common stack: |Two♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 248----------------------
+player_1 added |Six♦️| to stack.
+Common stack: |Six♦️| |Two♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 249----------------------
+player_3 added |Six♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Two♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 250----------------------
+player_1 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Two♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 251----------------------
+player_3 added |Jack♣️| to stack.
+Common stack: |Jack♣️| |Eight♠️| |Two♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 252----------------------
+player_1 added |Two♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 253----------------------
+player_3 added |Five♥️| to stack.
+Common stack: |Five♥️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 254----------------------
+player_1 added |Six♥️| to stack.
+Common stack: |Six♥️| |Five♥️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 255----------------------
+player_3 added |Five♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 256----------------------
+player_1 added |Four♦️| to stack.
+Common stack: |Four♦️| |Seven♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 257----------------------
+player_3 added |Seven♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 258----------------------
+player_1 added |Queen♥️| to stack.
+Common stack: |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 259----------------------
+player_3 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 260----------------------
+player_1 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Seven♥️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 261----------------------
+player_3 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |Nine♦️| |Seven♥️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 262----------------------
+player_1 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |Ten♦️| |Nine♦️| |Seven♥️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 263----------------------
+player_3 added |Seven♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 264----------------------
+player_1 added |King♦️| to stack.
+Common stack: |King♦️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 265----------------------
+player_3 added |Eight♥️| to stack.
+Common stack: |Eight♥️| |King♦️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 266----------------------
+player_1 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Eight♥️| |King♦️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 267----------------------
+player_3 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Ace♠️| |Eight♥️| |King♦️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 268----------------------
+player_1 added |Eight♦️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |King♦️| |Queen♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 269----------------------
+player_3 added |Queen♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 270----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 271----------------------
+player_3 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Ace♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 272----------------------
+player_1 added |Ace♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 273----------------------
+player_3 added |Eight♣️| to stack.
+Common stack: |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 274----------------------
+player_1 added |Five♠️| to stack.
+Common stack: |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 275----------------------
+player_3 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 276----------------------
+player_1 added |Three♠️| to stack.
+Common stack: |Three♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 277----------------------
+player_3 added |Four♠️| to stack.
+Common stack: |Four♠️| |Three♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 278----------------------
+player_1 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Four♠️| |Three♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 279----------------------
+player_3 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Queen♦️| |Four♠️| |Three♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 280----------------------
+player_1 added |Four♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Three♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 281----------------------
+player_3 added |Three♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 282----------------------
+player_1 added |Six♠️| to stack.
+Common stack: |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 283----------------------
+player_3 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 284----------------------
+player_1 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |Queen♣️| |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 285----------------------
+player_3 added |King♠️| to stack.
+Common stack: |King♠️| |Ten♣️| |Queen♣️| |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 286----------------------
+player_1 added |King♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Ten♣️| |Queen♣️| |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 287----------------------
+player_3 added |Nine♥️| to stack.
+Common stack: |Nine♥️| |Ten♣️| |Queen♣️| |Six♠️| |Ace♦️| |Five♠️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 288----------------------
+player_1 added |Five♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 289----------------------
+player_3 added |King♥️| to stack.
+Common stack: |King♥️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 290----------------------
+player_1 added |Two♣️| to stack.
+Common stack: |Two♣️| |King♥️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 291----------------------
+player_3 added |Three♦️| to stack.
+Common stack: |Three♦️| |Two♣️| |King♥️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 292----------------------
+player_1 added |Jack♣️| to stack.
+Common stack: |Jack♣️| |Three♦️| |Two♣️| |King♥️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 293----------------------
+player_3 added |Four♣️| to stack.
+Common stack: |Four♣️| |Jack♣️| |Three♦️| |Two♣️| |King♥️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 294----------------------
+player_1 added |Eight♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 295----------------------
+player_3 added |Three♣️| to stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 296----------------------
+player_1 added |Two♦️| to stack.
+Common stack: |Two♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 297----------------------
+player_3 added |Two♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 298----------------------
+player_1 added |Eight♦️| to stack.
+Common stack: |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 299----------------------
+player_3 added |Two♠️| to stack.
+Common stack: |Two♠️| |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 300----------------------
+player_1 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Two♠️| |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 301----------------------
+player_3 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |Ten♠️| |Two♠️| |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 302----------------------
+player_1 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Jack♥️| |Ten♠️| |Two♠️| |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 303----------------------
+player_3 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Ace♠️| |Jack♥️| |Ten♠️| |Two♠️| |Eight♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 304----------------------
+player_1 added |Eight♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 305----------------------
+player_3 added |Jack♠️| to stack.
+Common stack: |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 306----------------------
+player_1 added |Ace♣️| to stack.
+Common stack: |Ace♣️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 307----------------------
+player_3 added |Six♣️| to stack.
+Common stack: |Six♣️| |Ace♣️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 308----------------------
+player_1 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |Six♣️| |Ace♣️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 309----------------------
+player_3 added |Six♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Ace♣️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 310----------------------
+player_1 added |Ace♥️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 311----------------------
+player_3 added |Five♦️| to stack.
+Common stack: |Five♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 312----------------------
+player_1 added |Four♥️| to stack.
+Common stack: |Four♥️| |Five♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 313----------------------
+player_3 added |Six♥️| to stack.
+Common stack: |Six♥️| |Four♥️| |Five♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 314----------------------
+player_1 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Six♥️| |Four♥️| |Five♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 315----------------------
+player_3 added |Five♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 316----------------------
+player_1 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 317----------------------
+player_3 added |Seven♦️| to stack.
+Common stack: |Seven♦️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 318----------------------
+player_1 added |Four♠️| to stack.
+Common stack: |Four♠️| |Seven♦️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 319----------------------
+player_3 added |Four♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Seven♦️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 320----------------------
+player_1 added |King♣️| to stack.
+Common stack: |King♣️| |Seven♦️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 321----------------------
+player_3 added |Seven♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 322----------------------
+player_1 added |King♠️| to stack.
+Common stack: |King♠️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 323----------------------
+player_3 added |Seven♣️| to stack.
+Common stack: |Seven♣️| |King♠️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 324----------------------
+player_1 added |Five♣️| to stack.
+Common stack: |Five♣️| |Seven♣️| |King♠️| |Queen♦️| |Jack♠️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 325----------------------
+player_3 added |Jack♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 326----------------------
+player_1 added |Nine♥️| to stack.
+Common stack: |Nine♥️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 327----------------------
+player_3 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |Nine♥️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 328----------------------
+player_1 added |Ten♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Nine♥️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 329----------------------
+player_3 added |Nine♦️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 330----------------------
+player_1 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 331----------------------
+player_3 added |Seven♥️| to stack.
+Common stack: |Seven♥️| |Queen♣️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 332----------------------
+player_1 added |Six♠️| to stack.
+Common stack: |Six♠️| |Seven♥️| |Queen♣️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 333----------------------
+player_3 added |Queen♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 334----------------------
+player_1 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 335----------------------
+player_3 added |King♦️| to stack.
+Common stack: |King♦️| |Ace♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 336----------------------
+player_1 added |Five♠️| to stack.
+Common stack: |Five♠️| |King♦️| |Ace♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 337----------------------
+player_3 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Five♠️| |King♦️| |Ace♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 338----------------------
+player_1 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Queen♥️| |Five♠️| |King♦️| |Ace♦️| |Three♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 339----------------------
+player_3 added |Three♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 340----------------------
+player_1 added |Four♣️| to stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 341----------------------
+player_3 added |Three♠️| to stack.
+Common stack: |Three♠️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 342----------------------
+player_1 added |Jack♣️| to stack.
+Common stack: |Jack♣️| |Three♠️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 343----------------------
+player_3 added |Two♥️| to stack.
+Common stack: |Two♥️| |Jack♣️| |Three♠️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 344----------------------
+player_1 added |Three♦️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 345----------------------
+player_3 added |Two♦️| to stack.
+Common stack: |Two♦️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 346----------------------
+player_1 added |Two♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 347----------------------
+player_3 added |Six♦️| to stack.
+Common stack: |Six♦️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 348----------------------
+player_1 added |King♥️| to stack.
+Common stack: |King♥️| |Six♦️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 349----------------------
+player_3 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |King♥️| |Six♦️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 350----------------------
+player_1 added |Eight♣️| to stack.
+Common stack: |Eight♣️| |Nine♠️| |King♥️| |Six♦️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 351----------------------
+player_3 added |Six♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 352----------------------
+player_1 added |Eight♥️| to stack.
+Common stack: |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 353----------------------
+player_3 added |Five♥️| to stack.
+Common stack: |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 354----------------------
+player_1 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 355----------------------
+player_3 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Nine♣️| |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 356----------------------
+player_1 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |Ten♥️| |Nine♣️| |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 357----------------------
+player_3 added |Six♥️| to stack.
+Common stack: |Six♥️| |Ace♠️| |Ten♥️| |Nine♣️| |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 358----------------------
+player_1 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |Six♥️| |Ace♠️| |Ten♥️| |Nine♣️| |Five♥️| |Eight♥️| |Four♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 359----------------------
+player_3 added |Four♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 360----------------------
+player_1 added |Ten♠️| to stack.
+Common stack: |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 361----------------------
+player_3 added |Five♦️| to stack.
+Common stack: |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 362----------------------
+player_1 added |Two♠️| to stack.
+Common stack: |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 363----------------------
+player_3 added |Four♦️| to stack.
+Common stack: |Four♦️| |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 364----------------------
+player_1 added |Eight♦️| to stack.
+Common stack: |Eight♦️| |Four♦️| |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 365----------------------
+player_3 added |Four♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 366----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 367----------------------
+player_3 added |Seven♠️| to stack.
+Common stack: |Seven♠️| |Ace♥️| |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 368----------------------
+player_1 added |Ace♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 369----------------------
+player_3 added |King♣️| to stack.
+Common stack: |King♣️| |Two♠️| |Five♦️| |Ten♠️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 370----------------------
+player_1 added |Ten♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 371----------------------
+player_3 added |Seven♦️| to stack.
+Common stack: |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 372----------------------
+player_1 added |Ten♦️| to stack.
+Common stack: |Ten♦️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 373----------------------
+player_3 added |Jack♦️| to stack.
+Common stack: |Jack♦️| |Ten♦️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 374----------------------
+player_1 added |Three♦️| to stack.
+Common stack: |Three♦️| |Jack♦️| |Ten♦️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 375----------------------
+player_3 added |Five♣️| to stack.
+Common stack: |Five♣️| |Three♦️| |Jack♦️| |Ten♦️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 376----------------------
+player_1 added |Two♥️| to stack.
+Common stack: |Two♥️| |Five♣️| |Three♦️| |Jack♦️| |Ten♦️| |Seven♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 377----------------------
+player_3 added |Seven♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 378----------------------
+player_1 added |Jack♣️| to stack.
+Common stack: |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 379----------------------
+player_3 added |King♠️| to stack.
+Common stack: |King♠️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 380----------------------
+player_1 added |Three♠️| to stack.
+Common stack: |Three♠️| |King♠️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 381----------------------
+player_3 added |Queen♦️| to stack.
+Common stack: |Queen♦️| |Three♠️| |King♠️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 382----------------------
+player_1 added |Two♣️| to stack.
+Common stack: |Two♣️| |Queen♦️| |Three♠️| |King♠️| |Jack♣️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 383----------------------
+player_3 added |Jack♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 384----------------------
+player_1 added |Two♦️| to stack.
+Common stack: |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 385----------------------
+player_3 added |Nine♦️| to stack.
+Common stack: |Nine♦️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 386----------------------
+player_1 added |Ace♣️| to stack.
+Common stack: |Ace♣️| |Nine♦️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 387----------------------
+player_3 added |Nine♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 388----------------------
+player_1 added |Seven♠️| to stack.
+Common stack: |Seven♠️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 389----------------------
+player_3 added |Queen♠️| to stack.
+Common stack: |Queen♠️| |Seven♠️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 390----------------------
+player_1 added |Ace♥️| to stack.
+Common stack: |Ace♥️| |Queen♠️| |Seven♠️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 391----------------------
+player_3 added |Six♠️| to stack.
+Common stack: |Six♠️| |Ace♥️| |Queen♠️| |Seven♠️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 392----------------------
+player_1 added |Ten♣️| to stack.
+Common stack: |Ten♣️| |Six♠️| |Ace♥️| |Queen♠️| |Seven♠️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 393----------------------
+player_3 added |Seven♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 394----------------------
+player_1 added |King♣️| to stack.
+Common stack: |King♣️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 395----------------------
+player_3 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |King♣️| |Two♦️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 396----------------------
+player_1 added |Two♠️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 397----------------------
+player_3 added |Three♥️| to stack.
+Common stack: |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 398----------------------
+player_1 added |Five♦️| to stack.
+Common stack: |Five♦️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 399----------------------
+player_3 added |Eight♠️| to stack.
+Common stack: |Eight♠️| |Five♦️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 400----------------------
+player_1 added |Ten♠️| to stack.
+Common stack: |Ten♠️| |Eight♠️| |Five♦️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 401----------------------
+player_3 added |Queen♥️| to stack.
+Common stack: |Queen♥️| |Ten♠️| |Eight♠️| |Five♦️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 402----------------------
+player_1 added |Two♠️| to stack.
+Common stack: |Two♠️| |Queen♥️| |Ten♠️| |Eight♠️| |Five♦️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 403----------------------
+player_3 added |Five♠️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 404----------------------
+player_1 added |Queen♣️| to stack.
+Common stack: |Queen♣️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 405----------------------
+player_3 added |King♦️| to stack.
+Common stack: |King♦️| |Queen♣️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 406----------------------
+player_1 added |King♣️| to stack.
+player_1 added range of cards to his stack.
+Common stack: |Queen♣️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 407----------------------
+player_3 added |Ace♦️| to stack.
+Common stack: |Ace♦️| |Queen♣️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 408----------------------
+player_1 added |Two♦️| to stack.
+Common stack: |Two♦️| |Ace♦️| |Queen♣️| |Three♥️| 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 409----------------------
+player_3 added |Three♣️| to stack.
+player_3 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 410----------------------
+player_1 added |King♣️| to stack.
+Common stack: |King♣️| 
+Players: 
+player_1 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 411----------------------
+player_3 added |Six♣️| to stack.
+Common stack: |Six♣️| |King♣️| 
+Players: 
+player_1 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 412----------------------
+player_1 added |King♦️| to stack.
+player_1 added range of cards to his stack.
+Common stack: 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 413----------------------
+player_3 added |Eight♣️| to stack.
+Common stack: |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 414----------------------
+player_1 added |King♦️| to stack.
+Common stack: |King♦️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 415----------------------
+player_3 added |Nine♠️| to stack.
+Common stack: |Nine♠️| |King♦️| |Eight♣️| 
+Players: 
+player_1 stack: |X| |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 416----------------------
+player_1 added |Six♣️| to stack.
+Common stack: |Six♣️| |Nine♠️| |King♦️| |Eight♣️| 
+Players: 
+player_1 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 417----------------------
+player_3 added |King♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |Eight♣️| 
+Players: 
+player_1 stack: |X| 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 418----------------------
+player_1 added |King♣️| to stack.
+player_1 lost!!!
+Common stack: |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 419----------------------
+player_3 added |Six♦️| to stack.
+Common stack: |Six♦️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 420----------------------
+player_3 added |Four♥️| to stack.
+Common stack: |Four♥️| |Six♦️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 421----------------------
+player_3 added |Jack♥️| to stack.
+Common stack: |Jack♥️| |Four♥️| |Six♦️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 422----------------------
+player_3 added |Six♥️| to stack.
+player_3 added range of cards to his stack.
+Common stack: |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 423----------------------
+player_3 added |Ace♠️| to stack.
+Common stack: |Ace♠️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 424----------------------
+player_3 added |Ten♥️| to stack.
+Common stack: |Ten♥️| |Ace♠️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 425----------------------
+player_3 added |Nine♣️| to stack.
+Common stack: |Nine♣️| |Ten♥️| |Ace♠️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 426----------------------
+player_3 added |Five♥️| to stack.
+Common stack: |Five♥️| |Nine♣️| |Ten♥️| |Ace♠️| |King♣️| |Eight♣️| 
+Players: 
+player_3 stack: |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| |X| 
+-------------------------Step 427----------------------
+player_3 added |Eight♥️| to stack.
+player_3 added range of cards to his stack.
+player_3 won!!!
+End of game

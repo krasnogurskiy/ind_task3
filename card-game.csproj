@@ -6,4 +6,8 @@
     <RootNamespace>card_game</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Protocols\" />
+  </ItemGroup>
+
 </Project>
