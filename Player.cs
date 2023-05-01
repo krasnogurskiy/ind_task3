@@ -8,15 +8,23 @@ namespace card_game
     {
         private Stack_of_cards cards;
         private int number_of_cards;
+        private string name;
 
-        public Player()
+        public Player(string _name)
         {
             cards = new Stack_of_cards(false);
             number_of_cards = 0;
+            name = _name;
         }
         public void AddCardTop(Card card)
         {
             cards.AddCard(card);
+            number_of_cards += 1;
+        }
+
+        public string Name
+        {
+            get { return name; }
         }
 
         // Гетер, що повертає кількість карт у гравця
@@ -42,7 +50,7 @@ namespace card_game
 
         public override string ToString()
         {
-            return ("Player`s stack: " + cards.ToString());
+            return ($"{name} stack: " + cards.ToString());
         }
     }
 }
