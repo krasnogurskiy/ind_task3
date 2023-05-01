@@ -11,7 +11,6 @@ namespace card_game
             //Console.WriteLine("Hello World!");
             ////Card a = new Card(1, Suit.Diamond);
             //Console.WriteLine(a.ToString("Close"));
-            Console.Write("Enter number of players: ");
             int n = 0;
             while (true)
             {
@@ -62,7 +61,6 @@ namespace card_game
                     if (pos != -1)
                     {
                         pos += 1;
-                        Console.WriteLine(pos);
                         pl_arr[i].AddRangeOfCards(stack.RemoveRangeOfCards(pos));
                         Console.WriteLine("{0} added range of cards to his stack.", pl_arr[i].Name);
                     }
