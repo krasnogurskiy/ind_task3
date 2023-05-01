@@ -24,7 +24,12 @@ namespace card_game
             get { return number_of_cards; }
         }
 
-        public Card RemoveCard() { }
+        public Card RemoveCard() 
+        {
+            LinkedList<Card> range = cards.RemoveRangeOfCards(0);
+            number_of_cards--;
+            return range.First.Value;
+        }
 
         public void AddRangeOfCards(LinkedList<Card> cardsToAdd) { }
 
