@@ -19,7 +19,10 @@ namespace card_game
             cards.AddCard(card);
         }
 
-        public int NumberOfCards { }
+        public int NumberOfCards 
+        {
+            get { return number_of_cards; }
+        }
 
         public Card RemoveCard() { }
 
