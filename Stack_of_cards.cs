@@ -24,10 +24,7 @@ namespace card_game
 
         }
         public Stack_of_cards(LinkedList<Card> c, bool is_op) // Конструктор за параметрами
-        {
-            cards = c;
-            is_opened = is_op;
-        }
+
 
 
         // Методи різні
