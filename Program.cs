@@ -1,85 +1,123 @@
-
+using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
 namespace card_game
 {
-    class Program
+    class Stack_of_cards
     {
-        static void Main(string[] args)
+        // Поля
+        private LinkedList<Card> cards;
+        private bool is_opened;
+
+
+        //Конструктори
+        public Stack_of_cards()
         {
-            //Console.WriteLine("Hello World!");
-            //Card a = new Card(1, Suit.Diamond);
-            //Console.WriteLine(a.ToString("Close"));
-            Console.Write("Enter number of players: ");
-            int n = 0;
+            is_opened = true;
+            cards = new LinkedList<Card>();
+        }
+        public Stack_of_cards(bool is_op)
+        {
+            is_opened = is_op;
+            cards = new LinkedList<Card>();
+
+        }
+
+        // Конструктор за параметрами
+        public Stack_of_cards(LinkedList<Card> c, bool is_op) 
+        {
+            cards = c;
+            is_opened = is_op;
+        }
+
+
+        // Методи різні
+        // Додавання нової карти
+        public void AddCard(Card c) 
+        {
+            cards.AddFirst(c);
+        }
+
+        /* 
+        метод шукає карту в стопці
+        обходим вузли за допомогою while, порівнюєм значення вузла з потрібною картою, 
+        знаходим: повертаєм індекс поточного числа, не находим:  вертаєм -1
+         */
+        public int FindCard(Card c)
+        {
+            LinkedListNode<Card> currentNode = cards.First;
+            int index = 0;
+            while (currentNode != null)
+            {
+                if (currentNode.Value == c)
                 {
-                    break;
+                    return index;
+                }
+                currentNode = currentNode.Next;
+                index++;
+            }
+            return -1;
+        }
+
+        public LinkedList<Card> RemoveRangeOfCards(int pos)
+        {
+            LinkedList<Card> range = new LinkedList<Card>();
+            LinkedListNode<Card> end_node = cards.First;
+            if (pos == 0)
+            {
+                range.AddLast(end_node.Value);
+                cards.RemoveFirst();
+            }
+            else
+            {
+                while (pos >= 0)
+                {
+                    if (pos > 0)
+                    {
+                        range.AddLast(end_node.Value);
+                        end_node = end_node.Next;
+                        cards.Remove(end_node.Previous.Value);
+                    }
+                    else
+                    {
+                        range.AddLast(end_node.Value);
+                        cards.Remove(end_node.Value);
+                    }
+                    pos -= 1;
+                }
+            }
+            return range;
+        }
+        public override string ToString()
+        {
+            string st = string.Empty;
+            foreach (Card i in cards)
+            {
+                if (is_opened)
+                {
+                    st = st + i.ToString("Open") + " ";
                 }
                 else
                 {
-                    Console.WriteLine("Error. Number of players must be no less than 2 and no more than 6. Try again.");
-                    n = Int32.Parse(Console.ReadLine());
+                    st = st + i.ToString("Close") + " ";
                 }
             }
-            Deck deck = new Deck(n);
-            Player[] pl_arr = new Player[n];
-            for (int i = 0; i < n; i++)
+            return st;
+        }
+
+        /*
+         метод, що додає діапазон карт під стопку
+        приймає список карт, робить для кожної карти в списку - вузол,
+        додає під стопку за допомогою AddAfter()
+         */
+        public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
+        {
+            foreach (Card card in cardsToAdd)
             {
-                string name = "player";
-                pl_arr[i] = new Player(name + "_" + (i + 1).ToString());
+                LinkedListNode<Card> newNode = new LinkedListNode<Card>(card);
+                cards.AddLast(newNode);
             }
-            LinkedList<Card> remainder = new LinkedList<Card>();
-            remainder = deck.DealCards(pl_arr);
-            Stack_of_cards stack = new Stack_of_cards();
-
-            {
-                stack.AddRangeOfCards(remainder);
-            }
-            Console.WriteLine("Start of game");
-            Console.WriteLine("Common stack: {0}", stack);
-            Console.WriteLine("Players: ");
-
-            {
-                Console.WriteLine(x);
-            }
-            bool smb_won = false;
-            int step = 0;
-
-                {
-                    Console.WriteLine("-------------------------Step {0}----------------------", step);
-                    Card temp = pl_arr[i].RemoveCard();
-                    int pos = stack.FindCard(temp);
-                    stack.AddCard(temp);
-                    Console.WriteLine("{0} added {1} to stack.", pl_arr[i].Name, temp.ToString("Open"));
-                    if (pos != -1)
-                    {
-                        pos += 1;
-                        Console.WriteLine(pos);
-                        pl_arr[i].AddRangeOfCards(stack.RemoveRangeOfCards(pos));
-                        Console.WriteLine("{0} added range of cards to his stack.", pl_arr[i].Name);
-                    }
-
-                    {
-                        Console.WriteLine("{0} won!!!", pl_arr[i].Name);
-                        smb_won = true;
-                        break;
-                    }
-
-                    {
-                        Console.WriteLine("{0} lost!!!", pl_arr[i].Name);
-                        pl_arr = pl_arr.Where((_, j) => j != i).ToArray();
-                    }
-                    Console.WriteLine("Common stack: {0}", stack);
-                    Console.WriteLine("Players: ");
-                    foreach (Player x in pl_arr)
-                    {
-                        Console.WriteLine(x);
-                    }
-                    step += 1;
-                }
-            }
-            Console.WriteLine("End of game");
         }
     }
 }
