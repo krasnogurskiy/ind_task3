@@ -31,7 +31,11 @@ namespace card_game
             return range.First.Value;
         }
 
-        public void AddRangeOfCards(LinkedList<Card> cardsToAdd) { }
+        public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
+        {
+            cards.AddRangeOfCards(cardsToAdd);
+            number_of_cards += cardsToAdd.Count;
+        }
 
         public override string ToString()
         {
