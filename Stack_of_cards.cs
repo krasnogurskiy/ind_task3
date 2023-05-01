@@ -17,7 +17,17 @@ namespace card_game
             is_opened = true;
             cards = new LinkedList<Card>();
         }
-        public Stack_of_cards(LinkedList<Card> c, bool is_op) { cards = c; is_opened = is_op; } // Конструктор за параметрами
+        public Stack_of_cards(bool is_op)
+        {
+            is_opened = is_op;
+            cards = new LinkedList<Card>();
+
+        }
+        public Stack_of_cards(LinkedList<Card> c, bool is_op) // Конструктор за параметрами
+        {
+            cards = c;
+            is_opened = is_op;
+        }
 
 
         // Методи різні
@@ -37,7 +47,7 @@ namespace card_game
             int index = 0;
             while (currentNode != null)
             {
-                if (currentNode.Value.Equals(c))
+                if (currentNode.Value == c)
                 {
                     return index;
                 }
@@ -51,12 +61,28 @@ namespace card_game
         {
             LinkedList<Card> range = new LinkedList<Card>();
             LinkedListNode<Card> end_node = cards.First;
-            while (pos >= 0)
+            if (pos == 0)
             {
                 range.AddLast(end_node.Value);
-                end_node = end_node.Next;
-                cards.Remove(end_node.Previous.Value);
-                pos -= 1;
+                cards.RemoveFirst();
+            }
+            else
+            {
+                while (pos >= 0)
+                {
+                    if (pos > 0)
+                    {
+                        range.AddLast(end_node.Value);
+                        end_node = end_node.Next;
+                        cards.Remove(end_node.Previous.Value);
+                    }
+                    else
+                    {
+                        range.AddLast(end_node.Value);
+                        cards.Remove(end_node.Value);
+                    }
+                    pos -= 1;
+                }
             }
             return range;
         }
@@ -84,12 +110,10 @@ namespace card_game
          */
         public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
         {
-            LinkedListNode<Card> lastNode = cards.Last;
             foreach (Card card in cardsToAdd)
             {
                 LinkedListNode<Card> newNode = new LinkedListNode<Card>(card);
-                cards.AddAfter(lastNode, newNode);
-                lastNode = newNode;
+                cards.AddLast(newNode);
             }
         }
     }
