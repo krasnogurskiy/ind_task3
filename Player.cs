@@ -18,6 +18,13 @@ namespace card_game
         {
             cards.AddCard(card);
         }
+
+        public int NumberOfCards { }
+
+        public Card RemoveCard() { }
+
+        public void AddRangeOfCards(LinkedList<Card> cardsToAdd) { }
+
         public override string ToString()
         {
             return ("Player`s stack: " + cards.ToString());
