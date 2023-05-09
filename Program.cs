@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
+using System.Threading;
 
 namespace card_game
 {
@@ -93,6 +94,7 @@ namespace card_game
                         protocols.AddLast(x.ToString());
                     }
                     step += 1;
+                    Thread.Sleep(5000);//If you want to take away pause between steps, comment this line
                 }
             }
             Console.WriteLine("End of game");
