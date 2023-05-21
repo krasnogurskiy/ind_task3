@@ -20,7 +20,7 @@ namespace card_game
     //Карта
     class Card: IFormattable
     {
-        private uint cost; // Вартість карти (я подумав, шо і так там майже всьо циферки: туз = 1, валет = 10, дама = 11, король = 12; Тому uint тут мав би добре підійти)
+        private uint cost; // Вартість карти 
         private Suit suit; // Масть
         public uint GetCost() // Геттер
         {
@@ -111,7 +111,7 @@ namespace card_game
             return this.ToString(format, CultureInfo.CurrentCulture);    
         }
 
-        // Конструктор за параметрами (нам іншого і не треба буде, правда?)
+        // Конструктор за параметрами 
         public Card(uint _cost, Suit _suit) 
         {
             if (_cost >= 1 && _cost <= 13)  // Перевірка заданого числа на межі (1, 13)
