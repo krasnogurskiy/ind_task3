@@ -6,32 +6,34 @@ using System.Threading.Tasks;
 
 namespace card_game
 {
-    // Я шось так поняв, шо нам масть, напевно, не треба буде, ну але я вже написав, тому най буде)))
-
-    //♠️♣️♥️♦️
-    //Масть
+    //Масті карт
     public enum Suit
     {
-        Heart = 0, 
-        Diamond = 1, 
-        Spade = 2,
-        Club = 3
+        Heart = 0,      // Черви
+        Diamond = 1,    // Буби
+        Spade = 2,      // Піки
+        Club = 3        // Хрести
     }
-    //Карта
+    
+    // Клас, який моделює Карту
     class Card: IFormattable
     {
-        private uint cost; // Вартість карти 
-        private Suit suit; // Масть
-        public uint GetCost() // Геттер
+        private uint cost;  // Вартість карти 
+        private Suit suit;  // Масть карти
+        
+        // Гетер, повертає вартість карти
+        public uint GetCost() 
         {
             return cost;
         }
 
-        // Реалізація IFormattable 
+        // Перевизначений метод ToString() 
         public override string ToString()
         {
             return this.ToString("Open", CultureInfo.CurrentCulture);
         }
+        
+        // Перевизначений метод ToString() з використанням інтерфейсу IFormattable для форматованого представлення карти
         public string ToString(string format, IFormatProvider formatProvider)
         {
             string c = string.Empty;
@@ -106,15 +108,17 @@ namespace card_game
                     return "Error: Opened or Closed?";
             }
         }
+        
+        // Перевизначений метод ToString(), який приймає лише формат
         public string ToString(string format)
         {
             return this.ToString(format, CultureInfo.CurrentCulture);    
         }
 
-        // Конструктор за параметрами 
+        // Конструктор за параметрами класу Card, який приймає вартість карти та масть карти
         public Card(uint _cost, Suit _suit) 
         {
-            if (_cost >= 1 && _cost <= 13)  // Перевірка заданого числа на межі (1, 13)
+            if (_cost >= 1 && _cost <= 13)  // Перевірка валідності вартості карти
                 cost = _cost;
             else
             {
