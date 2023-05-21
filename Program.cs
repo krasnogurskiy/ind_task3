@@ -12,7 +12,7 @@ namespace card_game
         {
             bool is_console = true; 
             Console.WriteLine("Hello!\nChoose game mode:\n1. Output to console\n2. Output to file");
-            // Вибір режиму виведення
+            //Вибір режиму виведення
             while (true)
             {
                 int mode = int.Parse(Console.ReadLine());
