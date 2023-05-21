@@ -95,6 +95,7 @@ namespace card_game
             int step = 0;
             // Сама гра
             while (!smb_won)
+
             {
                 for (int i = 0; i < pl_arr.Length; ++i)
                 {
