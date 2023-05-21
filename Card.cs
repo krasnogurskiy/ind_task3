@@ -17,10 +17,11 @@ namespace card_game
         Spade = 2,
         Club = 3
     }
+    //Карта
     class Card: IFormattable
     {
         private uint cost; // Вартість карти (я подумав, шо і так там майже всьо циферки: туз = 1, валет = 10, дама = 11, король = 12; Тому uint тут мав би добре підійти)
-        private Suit suit;
+        private Suit suit; // Масть
         public uint GetCost() // Геттер
         {
             return cost;

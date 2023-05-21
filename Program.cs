@@ -12,6 +12,7 @@ namespace card_game
         {
             LinkedList<string> protocols = new LinkedList<string>();
             int n = 0;
+            // Введення кількості гравців
             while (true)
             {
                 Console.WriteLine("Enter number of players: ");
@@ -26,6 +27,7 @@ namespace card_game
                     n = Int32.Parse(Console.ReadLine());
                 }
             }
+            // Колода карт
             Deck deck = new Deck(n);
             Player[] pl_arr = new Player[n];
             for (int i = 0; i < n; i++)
@@ -94,7 +96,7 @@ namespace card_game
                         protocols.AddLast(x.ToString());
                     }
                     step += 1;
-                    Thread.Sleep(5000);//If you want to take away pause between steps, comment this line
+                    Thread.Sleep(1000);//If you want to take away pause between steps, comment this line
                 }
             }
             Console.WriteLine("End of game");
