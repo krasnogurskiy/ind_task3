@@ -4,19 +4,22 @@ using System.Text;
 
 namespace card_game
 {
+    // Клас, який моделює стопку карт
     class Stack_of_cards
     {
-        // Поля
+        // Поля класу
         private LinkedList<Card> cards;
         private bool is_opened;
 
 
-        //Конструктори
+        // Конструктор за замовчуванням, ініціалізує стек карт з відкритим станом і порожнім списком карт
         public Stack_of_cards()
         {
             is_opened = true;
             cards = new LinkedList<Card>();
         }
+        
+        // Конструктор, що приймає булевий параметр is_op, ініціалізує стек карт зі зазначеним станом і порожнім списком карт
         public Stack_of_cards(bool is_op)
         {
             is_opened = is_op;
@@ -24,7 +27,8 @@ namespace card_game
 
         }
 
-        // Конструктор за параметрами
+        // Конструктор, що приймає посилання на існуючий зв'язний список карт та булевий параметр is_op,
+        // ініціалізує стек карт з вказаним списком карт і станом
         public Stack_of_cards(LinkedList<Card> c, bool is_op) 
         {
             cards = c;
@@ -32,18 +36,15 @@ namespace card_game
         }
 
 
-        // Методи різні
-        // Додавання нової карти
+        // Методи класу
+
+        // Додає нову карту
         public void AddCard(Card c) 
         {
             cards.AddFirst(c);
         }
-
-        /* 
-        метод шукає карту в стопці
-        обходим вузли за допомогою while, порівнюєм значення вузла з потрібною картою, 
-        знаходим: повертаєм індекс поточного числа, не находим:  вертаєм -1
-         */
+        
+         // Знаходить позицію карти у стопці. Повертає індекс першої знайденої карти або -1, якщо карта не знайдена
         public int FindCard(Card c)
         {
             LinkedListNode<Card> currentNode = cards.First;
@@ -60,6 +61,7 @@ namespace card_game
             return -1;
         }
 
+        // Видаляє діапазон карт починаючи з позиції pos і повертає видалений діапазон у вигляді нового зв'язаного списку
         public LinkedList<Card> RemoveRangeOfCards(int pos)
         {
             LinkedList<Card> range = new LinkedList<Card>();
@@ -89,6 +91,8 @@ namespace card_game
             }
             return range;
         }
+        
+        // Перевизначення методу ToString()
         public override string ToString()
         {
             string st = string.Empty;
@@ -106,11 +110,7 @@ namespace card_game
             return st;
         }
 
-        /*
-         метод, що додає діапазон карт під стопку
-        приймає список карт, робить для кожної карти в списку - вузол,
-        додає під стопку за допомогою AddAfter()
-         */
+         // Додає діапазон карт до стеку (під стопку)
         public void AddRangeOfCards(LinkedList<Card> cardsToAdd)
         {
             foreach (Card card in cardsToAdd)
