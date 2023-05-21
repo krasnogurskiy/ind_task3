@@ -5,10 +5,13 @@ using System.Linq;
 
 namespace card_game
 {
+    // Клас, який моделює колоду карт
     class Deck
     {
         private int number_of_players; // Кількість гравців
-        private Card[] cards;
+        private Card[] cards; // Колода
+
+        // Конструктор класу Колода. Якщо гравців менше 4-ох, колода містить 36 карт, у іншому випадку - 52  
         public Deck(int _players)
         {
             number_of_players = _players;
@@ -37,10 +40,16 @@ namespace card_game
                     new Card(10, Suit.Spade), new Card(11, Suit.Spade), new Card(12, Suit.Spade), new Card(13, Suit.Spade), new Card(1, Suit.Spade) };
             }
         }
+
+        // Властивість, що повертає кількість карт у колоді
         public int NumberOfCard
         {
             get { return cards.Length; }
         }
+
+        // Метод, який моделює роздачу карт гравцям. Колода перемішується, після чого кожному гравцю
+        // по черзі видається випадкова карта з колоди. Якщо колоду не вдається порівно розподілити між
+        // гравцями, метод повертає залишок
         public LinkedList<Card> DealCards(Player[] players)
         {
             LinkedList<Card> remainder = new LinkedList<Card>();
